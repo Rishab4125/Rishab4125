@@ -1,5 +1,6 @@
-## Hi there 👋
+![Rudy](https://wallpaperaccess.com/full/2825710.gif)
 
+<h1 align="center">Hi!, I'm Rishab Gupta</h1>
 <!--
 **Rishab4125/Rishab4125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
