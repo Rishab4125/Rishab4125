@@ -1,6 +1,6 @@
 <div align="center">                                          
  <h2> <img src = "https://capsule-render.vercel.app/api?text=Hi%20⍱!,%20I'm%20Rishab%20&type=waving&animation=fadeIn&color=gradient&height=70&fontSize=40&fontColor=#FFFFFF">
- <p>Namaste, I'm <a href="http://ankur12-1610.github.io/" target="_blank">Rishab</a></p>
+ <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 <h3>
 
 
