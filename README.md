@@ -11,13 +11,14 @@
 </h3>
 </div>
 
+<div>
 ## 🚀 About Me
 <p>
 🎓 Mechanical Engineering | IIT (BHU) Varanasi
 
 I’m a data-driven problem solver with hands-on experience in machine learning, computer vision, optimization, and analytics. I enjoy to take on messy, real-world problems and build something out for them. 
 </p>
-
+</div>
 
 
 <!--![Rudy](https://wallpaperaccess.com/full/2825710.gif)
