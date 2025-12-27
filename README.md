@@ -5,9 +5,9 @@
 
 <p>
 
- <a href="mailto: rishab.gupta.mwc20@itbhu.ac.in"><img alt="image" src="https://github.com/user-attachments/assets/885f0cc7-2eb0-4e2c-bcd0-8dd4b99dca7e" />
+ <a href="mailto: rishab.gupta.mwc20@itbhu.ac.in"><img alt="image" width = 28 height = 28 src="https://github.com/user-attachments/assets/885f0cc7-2eb0-4e2c-bcd0-8dd4b99dca7e" />
 </a>
- <a href="https://www.linkedin.com/in/rishabrg/"><img alt="image" src="https://github.com/user-attachments/assets/e7833fb3-7552-4302-9eb8-43d671835930" /></a>
+ <a href="https://www.linkedin.com/in/rishabrg/"><img alt="image" width = 28 height = 28 src="https://github.com/user-attachments/assets/e7833fb3-7552-4302-9eb8-43d671835930" /></a>
 </p>
 <!--![Rudy](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi ⍱!, I'm Rishab Gupta</h1> -->
