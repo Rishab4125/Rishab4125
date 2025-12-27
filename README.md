@@ -12,8 +12,9 @@
 </div>
 
 ## 🚀 About Me
-🎓 Mechanical Engineering | IIT (BHU) Varanasi
 <p>
+🎓 Mechanical Engineering | IIT (BHU) Varanasi
+
 I’m a data-driven problem solver with hands-on experience in machine learning, computer vision, optimization, and analytics. I enjoy to take on messy, real-world problems and build something out for them. 
 </p>
 
