@@ -12,7 +12,7 @@
 </div>
 
 <div>
-<h3> 🚀 About Me </h3>h
+<h3> 🚀 About Me </h3>
 <p>
 🎓 Mechanical Engineering | IIT (BHU) Varanasi
 
