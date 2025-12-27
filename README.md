@@ -1,4 +1,4 @@
-![Rudy](https://capsule-render.vercel.app/api?text=Hi%20⍱!,%20I'm%20Rishab%20&type=waving&animation=fadeIn&color=gradient&height=70&fontSize=40) 
+![Rudy](https://capsule-render.vercel.app/api?text=Hi%20⍱!,%20I'm%20Rishab%20&type=waving&animation=fadeIn&color=gradient&height=70&fontSize=40fontColor=#FFFFFF) 
 <div align="center">                                          
  
  <p>Namaste, I'm <a href="http://ankur12-1610.github.io/" target="_blank">Rishab</a></p>
