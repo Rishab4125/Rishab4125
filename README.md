@@ -1,10 +1,8 @@
 <div align="center">                                          
 <h2> <img src = "https://capsule-render.vercel.app/api?text=Hi%20⍱!,%20I'm%20Rishab%20&type=waving&animation=fadeIn&color=gradient&height=70&fontSize=40&fontColor=#FFFFFF"> 
  <p> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> </p>
-<h3>
 
 <p>
-
  <a href="mailto: rishab.gupta.mwc20@itbhu.ac.in"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0811bef0-3757-4aa7-8fc5-52c568e0107f" /></a>
  <a href="https://www.linkedin.com/in/rishabrg/"><img alt="image" width = 40 height = 40 src="https://github.com/user-attachments/assets/e7833fb3-7552-4302-9eb8-43d671835930" /></a>
 </p>
@@ -12,6 +10,14 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=Rishab4125" alt="Rishab's Github Visitor Count" />
 </h3>
 </div>
+
+## 🚀 About Me
+
+🧠 ML & CV Engineer passionate about solving complex, real-world problems  
+⚙️ Optimization & resource allocation enthusiast  
+📊 Product-minded data scientist with execution focus  
+🎓 IIT (BHU) Varanasi
+
 <!--![Rudy](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi ⍱!, I'm Rishab Gupta</h1> -->
 
