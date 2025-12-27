@@ -1,6 +1,6 @@
 <div align="center">                                          
- <h2> <img src = "https://capsule-render.vercel.app/api?text=Hi%20⍱!,%20I'm%20Rishab%20&type=waving&animation=fadeIn&color=gradient&height=70&fontSize=40&fontColor=#FFFFFF"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+<h2> <img src = "https://capsule-render.vercel.app/api?text=Hi%20⍱!,%20I'm%20Rishab%20&type=waving&animation=fadeIn&color=gradient&height=70&fontSize=40&fontColor=#FFFFFF"> 
+ <p> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> </p>
 <h3>
 
 
