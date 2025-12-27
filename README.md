@@ -13,10 +13,11 @@
 
 ## 🚀 About Me
 
-🧠 ML & CV Engineer passionate about solving complex, real-world problems  
-⚙️ Optimization & resource allocation enthusiast  
-📊 Product-minded data scientist with execution focus  
-🎓 IIT (BHU) Varanasi
+🎓 Mechanical Engineering | IIT (BHU) Varanasi
+
+I’m a data-driven problem solver with hands-on experience in machine learning, computer vision, optimization, and analytics. I enjoy to take on messy, real-world problems and build something out for them. 
+
+
 
 <!--![Rudy](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi ⍱!, I'm Rishab Gupta</h1> -->
