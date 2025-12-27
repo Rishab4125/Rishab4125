@@ -1,7 +1,7 @@
 <div align="center">                                          
 <h2> ![Rudy](https://capsule-render.vercel.app/api?text=Hi%20⍱!&type=waving&animation=fadeIn&color=gradient&height=50)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
- <p>Namaste, I'm <a href="http://ankur12-1610.github.io/" target="_blank">Ankur</a></p>
+ <p>Namaste, I'm <a href="http://ankur12-1610.github.io/" target="_blank">Rishab</a></p>
 <h3>
 
 
