@@ -5,11 +5,13 @@
 
 <p>
 
- <a href="mailto: rishab.gupta.mwc20@itbhu.ac.in"><img width="512" height="40" alt="40" src="https://github.com/user-attachments/assets/0811bef0-3757-4aa7-8fc5-52c568e0107f" />
-
-</a>
+ <a href="mailto: rishab.gupta.mwc20@itbhu.ac.in"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0811bef0-3757-4aa7-8fc5-52c568e0107f" /></a>
  <a href="https://www.linkedin.com/in/rishabrg/"><img alt="image" width = 40 height = 40 src="https://github.com/user-attachments/assets/e7833fb3-7552-4302-9eb8-43d671835930" /></a>
 </p>
+
+<img align="center" src="https://komarev.com/ghpvc/?username=Rishab4125" alt="Rishab's Github Visitor Count" />
+</h3>
+</div>
 <!--![Rudy](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi ⍱!, I'm Rishab Gupta</h1> -->
 
