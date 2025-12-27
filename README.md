@@ -14,10 +14,10 @@
 <div>
 <h1>About Me</h1>
 <p>
-🧩 Senior Business Analyst | Accordion 
+🧩 Senior Business Analyst | Accordion <br
 🎓 Mechanical Engineering | IIT (BHU) Varanasi
 
-I’m a data-driven problem solver with hands-on experience in machine learning, computer vision, optimization, and analytics. I enjoy to take on messy, real-world problems and build something out for them. 
+I’m a data-driven problem solver with hands-on experience in machine learning, computer vision, optimization, and analytics. I enjoy taking on messy, real-world problems and building something out for them. 
 </p>
 </div>
 
