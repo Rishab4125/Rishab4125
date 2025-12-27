@@ -1,6 +1,6 @@
 <!--![Rudy](https://wallpaperaccess.com/full/2825710.gif)
 <h1 align="center">Hi ⍱!, I'm Rishab Gupta</h1> -->
-![Rudy](https://capsule-render.vercel.app/api?text=Hi%20⍱!&type=wave&animation=fadeIn&color=gradient&height=100)
+![Rudy](https://capsule-render.vercel.app/api?text=Hi%20⍱!&type=waving&animation=fadeIn&color=gradient&height=100)
 <!--
 ![Rudy](https://i.pinimg.com/originals/2f/38/75/2f387558635253ada999b2efeb7a65f8.gif)
 <img src="https://i.pinimg.com/originals/2f/38/75/2f387558635253ada999b2efeb7a65f8.gif" alt="GIF" align = "left">
