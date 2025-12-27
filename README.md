@@ -12,8 +12,9 @@
 </div>
 
 <div>
-About Me
+<h1>About Me</h1>
 <p>
+🧩 Senior Business Analyst | Accordion 
 🎓 Mechanical Engineering | IIT (BHU) Varanasi
 
 I’m a data-driven problem solver with hands-on experience in machine learning, computer vision, optimization, and analytics. I enjoy to take on messy, real-world problems and build something out for them. 
