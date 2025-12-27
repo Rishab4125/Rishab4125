@@ -8,11 +8,11 @@
 </p>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=Rishab4125" alt="Rishab's Github Visitor Count" />
-</h3>
+</h2>
 </div>
 
 <div>
-<h2> 🚀 About Me
+<h3> 🚀 About Me </h3>h
 <p>
 🎓 Mechanical Engineering | IIT (BHU) Varanasi
 
